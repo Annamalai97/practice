@@ -3,6 +3,7 @@ public class Book {
         Book a1 = new Book();
         Book a2 = new Book();
         System.out.println(a1);
+        System.out.println(a2);
 
     }
 
