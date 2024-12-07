@@ -10,7 +10,7 @@ public class Arr {
         a[1]=3;
         a[2]=2;
         a[3]=7;
-        a[4]=8;
+        a[4]=81;
         for(int b=0;b<a.length;b++){
             System.out.println(a[b]);
         }
