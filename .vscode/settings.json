@@ -10,6 +10,7 @@
     // For PowerShell
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "github.copilot.editor.enableAutoCompletions": false,
+    "java.debug.settings.onBuildFailureProceed": true,
 
     // For Git Bash
    // "terminal.integrated.defaultProfile.windows": "Git Bash"
